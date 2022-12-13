@@ -1,4 +1,15 @@
 <resources>
+
+        <string name="tytulTV">Domek w gorach</string>
+        <string name="polubBtn">POLUB</string>
+        <string name="usunBtn">USUN</string>
+        <string name="zapiszBtn">ZAPISZ</string>
+        <string name="LikeCounter">polubien</string>
+        <string name="textView">Opis</string>
+        <string name="Image">Image</string>
     <string name="app_name">obrazek-licznik</string>
-    <string name="opis">oDomek domek oDomek domek oDomek domek oDomek domek oDomek domek oDomek domek oDomek domek oDomek domek oDomek domek</string>
+    <string name="opis">Odwiedz  komfortowy  domek  w Sudetach, blisko do szlakow turystycznych</string>
+    <string name="TextView" />
+    <string name="conter">0</string>
+    <string name="imagedesc">cat</string>
 </resources>
